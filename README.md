@@ -17,7 +17,7 @@ I have expertise in the following technologies:
     JavaScript
     Mern Stack
     NextJS
-    C Language
+    C++
 
 *Projects*
 
