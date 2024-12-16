@@ -1,4 +1,4 @@
-# 🚀 [Your Name] | Full-Stack Developer & AI Innovator
+# 🚀 [Mohammad Ehshan] | Full-Stack Developer & AI Innovator
 
 ## 🌐 Professional Summary
 B.Tech Computer Science student | Web Development Virtuoso | AI & Machine Learning Enthusiast | Hackathon Participant
