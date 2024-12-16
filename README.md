@@ -1,4 +1,4 @@
-# 🚀 [Mohammad Ehshan] | Full-Stack Developer & AI Innovator
+# 🚀 Mohammad Ehshan | Full-Stack Developer & AI Innovator
 
 ## 🌐 Professional Summary
 B.Tech Computer Science student | Web Development Virtuoso | AI & Machine Learning Enthusiast | Hackathon Participant
@@ -45,7 +45,7 @@ B.Tech Computer Science student | Web Development Virtuoso | AI & Machine Learni
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-F7B deletion923?style=for-the-badge&logo=codingninjas&logoColor=white)
+![Coding%20Ninjas](https://img.shields.io/badge/Coding_Ninjas-F79423?style=for-the-badge&logoColor=white)
 
 #### DSA Focus
 - 💻 Proficient in C++ for Data Structures and Algorithms
